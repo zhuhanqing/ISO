@@ -26,7 +26,7 @@
 </p>
 
 [![Project](https://img.shields.io/badge/🌐%20Project-Page-green)](https://iso-rlvr.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](https://iso-rlvr.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-2607.19331-b31b1b.svg)](https://arxiv.org/abs/2607.19331)
 
 ***Inherit the spectrum, optimize the frames.***
 
@@ -134,9 +134,8 @@ If you find ISO useful, please consider citing:
 @article{zhu2026iso,
   title   = {ISO: An RLVR-Native Optimization Stack},
   author  = {Zhu, Hanqing and Cong, Wenyan and Sha, Zhizhou and Mukherjee, Sagnik and Song, Xinyuan and Gonz{\'a}lez-Mart{\'i}nez, David and Wu, Xiaoxia and Tian, Yuandong and Liu, Shiwei and Pan, David Z. and Wang, Zhangyang},
-  journal = {arXiv preprint},
-  year    = {2026},
-  note    = {arXiv link coming soon}
+  journal = {arXiv preprint arXiv:2607.19331},
+  year    = {2026}
 }
 ```
 
