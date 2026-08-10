@@ -124,7 +124,7 @@ ISO-Optimizer applies a chosen base optimizer (AdamW or Muon) to the frame varia
 ## 📋 TODO
 
 - [x] Release ISO-Merger
-- [ ] Release ISO-Optimizer (verl-based training code)
+- [ ] Release ISO-Optimizer (verl-based training code) — preparing release; results being updated due to minor issues found
 
 ## 📖 Citation
 
