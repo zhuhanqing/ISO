@@ -32,6 +32,8 @@
 
 </div>
 
+> **Note (Aug 2026):** We are preparing the ISO-Optimizer code release. We identified some minor issues and are rerunning experiments to update the results. Stay tuned.
+
 Official repository for **ISO (Isospectral Optimization)**, an RLVR-native, fixed-spectrum optimization framework with complementary offline and online instantiations:
 
 - **ISO-Merger** (offline): composes shared-base RLVR specialists directly from their checkpoints — no post-merge data, rollouts, gradient updates, or on-policy distillation.
