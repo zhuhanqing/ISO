@@ -32,12 +32,12 @@
 
 </div>
 
-> **Note (Aug 2026):** We are preparing the ISO-Optimizer code release. We identified some minor issues and are rerunning experiments to update the results. Stay tuned.
-
 Official repository for **ISO (Isospectral Optimization)**, an RLVR-native, fixed-spectrum optimization framework with complementary offline and online instantiations:
 
 - **ISO-Merger** (offline): composes shared-base RLVR specialists directly from their checkpoints — no post-merge data, rollouts, gradient updates, or on-policy distillation.
 - **ISO-Optimizer** (online): applies a conventional base optimizer (AdamW, Muon, ...) to the singular-frame variables `(U, V)` while keeping the base spectrum `Σ₀` fixed throughout RLVR training.
+
+> **Note (Aug 2026):** The ISO-Merger code has been released. We are still preparing the ISO-Optimizer code release — we identified some minor issues and are rerunning experiments to update the results. Stay tuned.
 
 ## 💡 Key Idea: Spectral Inheritance
 
