@@ -119,12 +119,12 @@ The output directory is a self-contained HF checkpoint (tokenizer/config copied 
 
 ISO-Optimizer applies a chosen base optimizer (AdamW or Muon) to the frame variables `(U, V)` under the fixed base spectrum `Σ₀`, with an FP64 SVD-based polar retraction after each factor update. Our RLVR training runs are built on [verl](https://github.com/volcengine/verl) with DAPO.
 
-**Code release coming soon.**
+**We are preparing the optimizer code release. We identified some minor issues and are rerunning experiments to update the results. Stay tuned.**
 
 ## 📋 TODO
 
 - [x] Release ISO-Merger
-- [ ] Release ISO-Optimizer (verl-based training code) — preparing release; results being updated due to minor issues found
+- [ ] Release ISO-Optimizer (verl-based training code)
 
 ## 📖 Citation
 
